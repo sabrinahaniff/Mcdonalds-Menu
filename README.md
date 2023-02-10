@@ -1,2 +1,2 @@
 # Mcdonalds-Menu
-This is a program I created for my Grade 11 Computer Science course as my final exam.
+This is a program I created for my Grade 11 Computer Science course as my final exam. Initially, I was given instructions to make a Mcdonalds Menu application which included 1-2 items from each meal (breakfast, lunch & dessert). However, I decided that I would take on a challenge and instead added 9 items to my menu. I learned how to use hashmaps correctly as well as vector arrays and new C++ syntax.
