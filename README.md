@@ -1,2 +1,6 @@
 # Mcdonalds-Menu
-This is a program I created for my Grade 11 Computer Science course as my final exam.
+For my Grade 11 Computer Science final exam, I created a McDonald's Menu program that replicates the process of ordering from a real-life McDonald's menu. Although we were initially instructed to include only 3-5 items, I decided to challenge myself and expanded my menu to include 9 items. However, this presented a dilemma as I had to ensure the code was efficient and realistic to handle various user inputs without breaking.
+
+To tackle this challenge, I implemented several techniques to enhance the program's functionality. Firstly, I incorporated error-traps to handle unexpected inputs and prevent any errors from occurring. Additionally, I implemented a mechanism to convert strings and characters to lowercase, ensuring that the program could handle input in a consistent manner. Furthermore, since I had added a considerable number of items to the menu, I utilized a hashmap to efficiently store and retrieve the menu items.
+
+It's worth noting that working with a hashmap was a novel experience for me. The concept had not been covered in our class, and I took the initiative to introduce it to my classmates through my project. This required extensive research and self-learning to understand and effectively implement the hashmap in my program. Despite the challenges, this opportunity allowed me to expand my knowledge beyond the scope of the course material and further develop my programming skills.
